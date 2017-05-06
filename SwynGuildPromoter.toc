@@ -1,8 +1,9 @@
-## Interface: 60100
+## Interface: 70200
 ## Author: Swyn
+## Contributor: Bogdan-Proudmoore(US)
 ## Title: Swyn's Guild Promoter
 ## Notes: Allows you to mass promote or demote guildies based on various criteria.
-## Version: 3.01.06
+## Version: 7.02.01
 ## SavedVariables: SGPData
 
 Localization\enUS.lua
