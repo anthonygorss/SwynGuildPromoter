@@ -1,5 +1,5 @@
 # SwynGuildPromoter
-A World of Warcraft Battlefield Mini-Map addon for automating promotions of guild members.
+A World of Warcraft guild management addon to help automating titles, promotions, etc
 
 Based on the last know good release via Curse for Swyn's Guild Promotor. 
 
