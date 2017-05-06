@@ -1,0 +1,10 @@
+## Interface: 60100
+## Author: Swyn
+## Title: Swyn's Guild Promoter
+## Notes: Allows you to mass promote or demote guildies based on various criteria.
+## Version: 3.01.06
+## SavedVariables: SGPData
+
+Localization\enUS.lua
+SwynGuildPromoter.xml
+SwynGuildPromoter.lua
